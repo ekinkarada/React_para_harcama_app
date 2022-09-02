@@ -1,3 +1,5 @@
+Proje Ekran Görüntüsü
+![Proje Resmi](https://github.com/ekinkarada/React_para_harcama_app/blob/main/para_harcama.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
